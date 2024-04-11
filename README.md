@@ -29,6 +29,36 @@ coloquei em prática alguns dos conceitos do Clean Code.
 - Variáveis / Constantes
 - Clean Code
 
+
+  # Movimentações, Especificações e Operações deste Desafio:
+
+######  
+
+## 1. Implementação de três operações essenciais
+
+-  Depósito
+-  Saldo
+-  Saque
+
+## 2. Operação Depósito
+
+-  Apenas valores positivos
+-  Armazenados em variável
+-  Exibidos na operação de Extrato
+
+## 3. Operação Saque
+
+-  Limite de 3 saques diários
+-  Limite de R$ 500,00 por saque
+-  Armazenados em variável
+-  Exibidos na operação de Extrato
+
+## 4. Operação Extrato
+
+-  Listagem de todos os Depósitos e Saques realizado na conta
+-  Exibição do saldo atual em conta
+- 
+
 ## Projeto Rodando
 ![bank01.PNG](https://github.com/Danilo55Amaral/Desafio-Sistema-Bancario-Python/blob/main/bank01.PNG)
 ![bank02.PNG](https://github.com/Danilo55Amaral/Desafio-Sistema-Bancario-Python/blob/main/bank02.PNG)
